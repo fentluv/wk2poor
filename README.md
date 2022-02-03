@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @yuhoreos
-- 🌱 I’m currently learning ... Java
+- 👋 Hi, I’m @wk2poor
+- 🌱 I’m currently learning ... Java, JavaScript and python
 - 📫 How to reach me ... discord.gg/MyX2EM6F
-- ✔  cracking Minecraft CLients
-- 🎁
+- ✔  i code stuff
