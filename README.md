@@ -19,12 +19,8 @@
 
 
 
-
-- 👋 Hi, I’m @wk2poor
-- 🌱 I’m currently learning python
-- 📫 How to reach me ... discord.gg/MyX2EM6F
-- ✔  i code random stuff i think people would find usefull
-
+# 👨‍💻 languages i use!
+![d](https://camo.githubusercontent.com/637695999d1efdd26928d6bd67b6463be9f92ee26b85f5b3d624da7b4d1ebccb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2532302d2532333134333534432e7376673f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
 
 
 ![ily!](wk2poor.gif)
