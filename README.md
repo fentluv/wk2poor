@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+Im+wk2poor;Have+Fun+With+My+Projects)](https://git.io/typing-svg)
+[![wk2poor](https://readme-typing-svg.herokuapp.com/?lines=Hello+Im+wk2poor;Have+Fun+With+My+Projects)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @wk2poor
 - 🌱 I’m currently learning python
