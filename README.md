@@ -3,7 +3,7 @@
 [![trophys](https://github-profile-trophy.vercel.app/?username=wk2poor)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wk2poor)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @wk2poor
 - 🌱 I’m currently learning python
