@@ -1,3 +1,5 @@
+[Click Me For Free Vbucks](javascript: alert('👨‍💻')
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=3000&color=E43838&center=true&vCenter=true&lines=Welcome;Im+wk2poor)](https://git.io/typing-svg)
 
 💫 ~ Hi im wk2poor
