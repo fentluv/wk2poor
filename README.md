@@ -1,4 +1,4 @@
-[Click Me For Free Vbucks](javascript: alert('👨‍💻')
+[Click Me For Free Vbucks](fortnite.com)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=3000&color=E43838&center=true&vCenter=true&lines=Welcome;Im+wk2poor)](https://git.io/typing-svg)
 
